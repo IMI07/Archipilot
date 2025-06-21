@@ -20,4 +20,4 @@ A modular AI assistant designed to help manage construction projects, planning, 
 
 ## 📄 License
 
-MIT – see LICENSE file.
+AGPL-3.0 – see LICENSE file.
