@@ -1,23 +1,29 @@
-# ARCHI
- AI Resource for Construction & Human Interaction
- 
-A modular AI assistant designed to help manage construction projects, planning, documentation, communication, and visualizations — all in one place.
+# Archipilot
 
-🚧 Project Goal
+**Archipilot** is a modular AI assistant for construction project managers, architects, and builders.  
+It helps you plan, document, communicate, and visualize your construction projects — all in one place.
 
-- Streamline construction workflows
-- Automate reporting and communication
-- Integrate with project management tools (n8n, Notion, etc.)
-- Support multi-language assistants (EN, FR, RU)
+---
 
-## 🔧 Technologies Planned
+## 🚀 Vision
 
-- n8n
-- GPT-based AI assistants
-- GitHub Actions
-- Notion API
-- Telegram Bot
+Simplify and automate repetitive tasks in construction management using AI.
+
+Let Archipilot handle the bureaucracy, so you can focus on building.
+
+---
+
+## 📦 What can Archipilot do?
+
+- Generate construction timelines (Gantt-style)
+- Auto-build budget estimates
+- Draft and send professional emails to clients/subcontractors
+- Parse and organize PDF or DOC project documents
+- Provide visual updates on progress
+
+---
 
 ## 📄 License
 
-AGPL-3.0 – see LICENSE file.
+This project is licensed under AGPLv3 for open-source use.  
+For commercial use, please refer to [COMMERCIAL.md](COMMERCIAL.md).
