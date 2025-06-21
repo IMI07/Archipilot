@@ -2,6 +2,7 @@
  AI Resource for Construction & Human Interaction
  
 A modular AI assistant designed to help manage construction projects, planning, documentation, communication, and visualizations — all in one place.
+
 🚧 Project Goal
 
 - Streamline construction workflows
